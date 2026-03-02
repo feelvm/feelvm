@@ -1,4 +1,4 @@
-## Hi there 👋
+## ```henlo ```
 
 <!--
 **feelvm/feelvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  ### current projects:
+  - [NeuroNotes](https://neuronotes.dev/) - All-On-One-Screen Productivity Tool.
+  - [PeerDrop](https://peerdrop.pages.dev/) - True P2P File and Clipboard Sharing Tool.
+  - [fbmp](https://github.com/feelvm/fbmp) - Facebook Marketplace Focus Browser Extension with Listing Saving.
+  - [W11-LTS](https://github.com/feelvm/Windows-11-LTS) - Gutted Windows 11 .iso with Privacy and Performance Presets.
