@@ -20,4 +20,4 @@ Here are some ideas to get you started:
   - [PeerDrop](https://peerdrop.pages.dev/) - True P2P File and Clipboard Sharing Tool.
   - [fbmp](https://github.com/feelvm/fbmp) - Facebook Marketplace Focus Browser Extension with Listing Saving.
   - [W11-LTS](https://github.com/feelvm/Windows-11-LTS) - Gutted Windows 11 .iso optimized for Privacy and Performance.
-  - [osu! Map Manager](https://github.com/feelvm/osu-map-manager) - Tool to manage osu! maps based on parameters and creating collections.
+  - [osu! Map Manager](https://github.com/feelvm/osu-map-manager) - Tool to Manage osu! Maps Based on Parameters and Creating Collections.
